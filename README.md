@@ -12,15 +12,15 @@ indicators.
  - Explore the feasibility of implementing the model for real-time Fastag fraud detection.
 5. Explanatory Analysis:
  - Provide insights into the factors contributing to fraudulent transactions.
-        Challenges:
+        a. Challenges:
 - Imbalanced dataset issues due to the likely low occurrence of fraud.
 - Feature engineering to capture nuanced patterns indicative of fraud.
-        Evaluation Criteria:
+        b. Evaluation Criteria:
 - Model performance assessed using metrics such as precision, recall, F1 score, and accuracy.
-        Deliverables:
+        c. Deliverables:
 - Trained machine learning model for Fastag fraud detection.
 - Evaluation metrics and analysis report.
 - Documentation on relevant features and their impact on fraud detection.
-        Expected Outcome:
+        d. Expected Outcome:
 - An effective and scalable Fastag fraud detection system capable of minimizing financial losses and 
 ensuring the security of digital toll transactions.
